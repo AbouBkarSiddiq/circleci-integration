@@ -27,6 +27,10 @@ const quotes = [
     character: 'Homer Simpson',
   },
   {
+    quote: 'My eyes! The goggles do nothing!',
+    character: 'Rainier Wolfcastle',
+  },
+  {
     quote: "Oh, wow, windows. I don't think I could afford this place.",
     character: 'Otto',
   },
@@ -34,6 +38,11 @@ const quotes = [
     quote:
       'Remember the time he ate my goldfish? And you lied and said I never had a goldfish. Then why did I have the bowl, Bart? Why did I have the bowl?',
     character: 'Milhouse Van Houten',
+  },
+  {
+    quote:
+      'Shoplifting is a victimless crime, like punching someone in the dark.',
+    character: 'Nelson Muntz',
   },
   {
     quote:
